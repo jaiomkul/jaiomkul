@@ -5,7 +5,7 @@ proficiency in MERN Stack. A good learner and always excited to learn new
 things in terms of technology. Skilled in teamwork, collaboration, time
 management, and other interpersonal skills. Looking for an opportunity to
 work in a challenging position for a technology-driven organization.
-<img align="left" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=500 />
+<img align="left" src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=450 />
 </p>   <br><br>
   
   <!-- ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiomkul&theme=dracula)
