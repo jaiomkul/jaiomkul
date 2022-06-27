@@ -45,7 +45,7 @@ Click here for my [Resume](https://drive.google.com/file/d/1ku4HY_QYo-LBAcH1QAkH
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://xyzzz.com" target="blank" >
+<a href="https://jaiomkul.vercel.app/" target="blank" >
   <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Jaiprakash" height="30" width="40" />
 </a>
 <a href="https://twitter.com/jaiomkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaiomkul" height="30" width="40" /></a>
